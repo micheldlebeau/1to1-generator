@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/1to1-generator/static/css/main.592e1ef6.chunk.css",
+    "main.js": "/1to1-generator/static/js/main.4df519b2.chunk.js",
+    "main.js.map": "/1to1-generator/static/js/main.4df519b2.chunk.js.map",
+    "runtime-main.js": "/1to1-generator/static/js/runtime-main.5eca4612.js",
+    "runtime-main.js.map": "/1to1-generator/static/js/runtime-main.5eca4612.js.map",
+    "static/js/2.912d013d.chunk.js": "/1to1-generator/static/js/2.912d013d.chunk.js",
+    "static/js/2.912d013d.chunk.js.map": "/1to1-generator/static/js/2.912d013d.chunk.js.map",
+    "index.html": "/1to1-generator/index.html",
+    "precache-manifest.2b2acfd4019359037db68c30191e7fc4.js": "/1to1-generator/precache-manifest.2b2acfd4019359037db68c30191e7fc4.js",
+    "service-worker.js": "/1to1-generator/service-worker.js",
+    "static/css/main.592e1ef6.chunk.css.map": "/1to1-generator/static/css/main.592e1ef6.chunk.css.map",
+    "static/js/2.912d013d.chunk.js.LICENSE.txt": "/1to1-generator/static/js/2.912d013d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eca4612.js",
+    "static/js/2.912d013d.chunk.js",
+    "static/css/main.592e1ef6.chunk.css",
+    "static/js/main.4df519b2.chunk.js"
+  ]
+}

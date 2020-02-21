@@ -1,5 +1,13 @@
-.App {
+html, body {
+  height: 100%;
+}
+
+#root {
+  min-height: 100%;
   background-color: #282c34;
+
+}
+.App {
   color: white;
   align-items: center;
   padding: 2em;

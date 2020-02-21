@@ -54,14 +54,16 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <h1>1-to-1 Generator</h1>
-        </header>
-        <label>
+          <label>
           Pick your category: <select value={this.state.view} onChange={this.handleChange}>
           {this.state.categories.map((category, key) => (
             <option value={category} key={key+"option"}>{category}</option>
           ))}
           </select>
-        </label>
+          </label>
+        </header>
+        
+        
         <Questions category={this.state.view} questions={this.state.data.filter((item, key) => { return item.category === this.state.view })} key={this.state.view}></Questions>
       </div>
     );
